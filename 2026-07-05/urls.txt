@@ -1,0 +1,6 @@
+https://business.rivian.com/api
+https://rivian.com/api/gql/content/graphql
+https://rivian.com/api/gql/gateway/graphql
+https://rivian.com/api/gql/orders/graphql
+https://basecamp.rivian.com
+https://rivian.com

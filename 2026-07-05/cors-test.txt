@@ -1,0 +1,5 @@
+https://landing.rivian.com -> access-control-allow-origin: *
+https://media.rivian.com -> access-control-allow-origin: *
+https://offlease.rivian.com -> access-control-allow-origin: *
+https://things.api.rivian.com -> access-control-allow-origin: *
+https://things.stage.rivian.com -> access-control-allow-origin: *
